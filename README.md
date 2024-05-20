@@ -16,3 +16,12 @@ A map of China that shows the percentage of commenters by province (the sample s
 Small)
 
 ##  Project Flow Chart
+!["Project Flow Chart"](https://github.com/Liuzycn/Crawler-and-Visualization/blob/main/images/pic1.png)
+
+## Results Display
+Here is some results pictures that you can get from my project.
+!["WordCloud Map"](https://github.com/Liuzycn/Crawler-and-Visualization/blob/main/images/pic2.png)
+!["pic3"](https://github.com/Liuzycn/Crawler-and-Visualization/blob/main/images/pic3.png)
+!["pic4"](https://github.com/Liuzycn/Crawler-and-Visualization/blob/main/images/pic4.png)
+!["pic5"](https://github.com/Liuzycn/Crawler-and-Visualization/blob/main/images/pic5.png)
+!["pic6"](https://github.com/Liuzycn/Crawler-and-Visualization/blob/main/images/pic6.png)
