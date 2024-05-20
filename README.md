@@ -1,10 +1,10 @@
-# Crawler-and-Visualization
+# Python Crawler and Visualization
 
 This is a small program about crawler and visualization.
 
 ## Program Overview
 
-The goal of the project I completed this time is to crawl the barrage of the 2022 college entrance examination math video of station B. At that time, the background of the completion of the project was that it was the end of the 2022 college entrance examination, and the demand for college entrance examination mathematics on the Internet was also the loudest
+The goal of the project I completed this time is to crawl the barrage of the 2022 college entrance examination math video of bilibili. At that time, the background of the completion of the project was that it was the end of the 2022 college entrance examination, and the demand for college entrance examination mathematics on the Internet was also the loudest
 Target. Through the word cloud chart and bar chart drawing of people's comments, it is beneficial for readers to understand more directly that people are complaining about 2022
 What are the key words of mathematics in the college entrance examination, and the intrinsic relationship between them.
 1. Draw a word cloud map of high-frequency words in the barrage by crawling out the danmaku data.
